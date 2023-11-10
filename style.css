@@ -1,0 +1,68 @@
+fieldset#fieldsetAdd {
+    border: #008000 solid 1px;
+    border-radius: 3px;
+}
+
+fieldset#fieldsetAdd legend {
+    color: #008000;
+}
+
+fieldset#fieldsetAdd input[type="submit"] {
+    color: #008000;
+    background: #cdffd8;
+    margin: .25em 0 0 0;
+    height: 4em;
+    display: block;
+    border-radius: 3px;
+}
+
+fieldset#fieldsetDelete {
+    border: #800000 solid 1px;
+    border-radius: 3px;
+}
+
+fieldset#fieldsetDelete legend {
+    color: #800000;
+}
+
+fieldset#fieldsetDelete input[type="submit"] {
+    color: #800000;
+    background: #ffe0e3;
+    border: #800000 solid 1px;
+    height: 4em;
+    display: block;
+    border-radius: 5px;
+    float: left;
+}
+
+table {
+    width: 70%;
+    margin: .5em;
+    border-collapse: collapse;
+}
+
+table, td {
+    border: 1px solid #008000;
+    padding: .25em;
+}
+
+th {
+    background: #008000;
+    color: white;
+    border: 2px solid white;
+    padding: .5em;
+}
+
+tr:nth-child(even) {
+    background: #f0fcf3;
+}
+
+tr:nth-child(odd) {
+    background: #eee;
+}
+
+img {
+    float: right;
+    width: 40%;
+    margin: -4em 0 1em 0;
+}
