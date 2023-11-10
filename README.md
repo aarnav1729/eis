@@ -1,4 +1,4 @@
-# Employee Information System.
+# Employee Information System
 
 ### Overview
 The Employee Information Management System is a robust web application designed for efficient data entry and management. Tailored for seamless employee information input, the system provides an intuitive interface for capturing and displaying crucial details, promoting a positive user experience.
