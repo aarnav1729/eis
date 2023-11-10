@@ -21,12 +21,8 @@ The Employee Information Management System is a robust web application designed 
 ### Project Structure
 The project adheres to a professional file management structure.
 
-|-- prjEmployeeManagement
-    |-- index.php
-    |-- style.css
-    |-- graphic
-        |-- (image files)
-        
+![img](https://github.com/aarnav1729/eis/assets/72580375/f5a8cbf1-c39b-4d5e-8497-d9ec98929f56)
+
 ### Usage
 1. Clone the Repository: Clone the repository to your local machine.
 
